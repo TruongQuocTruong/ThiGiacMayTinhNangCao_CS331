@@ -1,2 +1,3 @@
 # ThiGiacMayTinhNangCao_CS331
-Project môn học Thị Giác Máy Tính Nâng Cao
+
+Các asignments và projects môn học Thị Giác Máy Tính Nâng Cao
